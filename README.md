@@ -2,7 +2,7 @@
 
 ### Lunch and Learn
 
-### 2024-04-02
+### 2024
 
 This is a guided, hands-on intro to [Pydantic v2](https://docs.pydantic.dev/latest/).
 If you're a Pydantic pro, this isn't for you.
